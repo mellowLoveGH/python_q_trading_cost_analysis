@@ -23,3 +23,8 @@ General Cost Equation: Cost = 10000 ∗ side ∗ (𝐵𝑒𝑛𝑐ℎ𝑚𝑎�
 
 The first Q language file is just a example to work through how to do it.
 While the python code is the real answer/solution.
+
+For python code, 
+1) review5530_01.ipynb, it is the whole practices for this course, and the last part is the codes for this project, but not full.
+It is a good template for you to learn Algorithmic trading, if you are interested in this subject/course.
+2) assignment2_5530.ipynb, it is the clear code for this project, run it will show the result as the screenshot.
